@@ -1,9 +1,10 @@
-
+import React  from "react";
+import Todo from "./components/todolist/todo";
 
 function App() {
   return (
     <>
-    <h1>Arafath Islam</h1>
+    <Todo/>
     </>
   );
 }
